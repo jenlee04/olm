@@ -17,5 +17,6 @@ Training/Evaluation:
 Used both raw sensor data and FOTD pre-processed data; evaluated training loss, training accuracy, top1 accuracy, and top5 accuracy. 
 
 Technical Blog:
-<img width="2389" height="1589" alt="image" src="https://github.com/user-attachments/assets/25668965-ea36-4ec6-9f6a-996387e39989" />
-
+<img width="812" height="171" alt="image" src="https://github.com/user-attachments/assets/561bd183-665d-450e-abf3-afc7b80a0ee1" />
+<img width="406" height="194" alt="image" src="https://github.com/user-attachments/assets/a44c23a8-910f-40b3-8cde-8c9261afc8e1" />
+<img width="812" height="179" alt="image" src="https://github.com/user-attachments/assets/ffb456b3-da49-44ef-8a41-bcd438e63903" />
